@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data and Models (حسب رغبتك لو الداتا ضخمة والموديلات مش عايز ترفعها)
+Reviews.csv
+models/
